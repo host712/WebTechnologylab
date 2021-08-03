@@ -1,2 +1,2 @@
-# WebTechnologylab
-Posting all the lab program in the repository
+# WebTechnologyLab
+Web Tech Lab Program will be posted
