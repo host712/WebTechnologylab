@@ -1,2 +1,2 @@
 # WebTechnologyLab
-Web Tech Lab Program will be posted
+Web Technology Lab program
