@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contract>
+  <player>
+    <name>Bruce Wayne</name>
+    <age>28</age>
+    <country>UK</country>
+    <club>Gotham Knights</club>
+    <contractduration>5 years</contractduration>
+    <yearofrenewalofrenewal>2023</yearofrenewalofrenewal>
+  </player>
+  <player>
+    <name>Ezio Auditore</name>
+    <age>22</age>
+    <country>Italy</country>
+    <club>Firenze</club>
+    <contractduration>3 years</contractduration>
+    <yearofrenewal>2022</yearofrenewal>
+  </player>
+  <player>
+    <name>Clark Kent</name>
+    <age>27</age>
+    <country>USA</country>
+    <club>RCA</club>
+    <contractduration>6 years</contractduration>
+    <yearofrenewal>2021</yearofrenewal>
+  </player>
+  <player>
+    <name>Connor Kenway</name>
+    <age>25</age>
+    <country>USA</country>
+    <club>BostonBulls</club>
+    <contractduration>2 years</contractduration>
+    <yearofrenewal>2024</yearofrenewal>
+  </player>
+  <player>
+    <name>Eros</name>
+    <age>35</age>
+    <country>Germany</country>
+    <club>BMG</club>
+    <contractduration>2 years</contractduration>
+    <yearofrenewal>2024</yearofrenewal>
+  </player>
+  <player>
+    <name>Edward Kenway</name>
+    <age>31</age>
+    <country>Wales</country>
+    <club>Cardiff</club>
+    <contractduration>4 years</contractduration>
+    <yearofrenewal>2023</yearofrenewal>
+  </player>
+  <player>
+    <name>Sylvias Mother</name>
+    <age>26</age>
+    <country>UK</country>
+    <club>CBS</club>
+    <contractduration>7 years</contractduration>
+    <yearofrenewal>2020</yearofrenewal>
+  </player>
+    <player>
+    <name>Altair</name>
+    <age>21</age>
+    <country>Israel</country>
+    <club>EMT</club>
+    <contractduration>8 years</contractduration>
+    <yearofrenewal>2025</yearofrenewal>
+  </player>
+</contract>
