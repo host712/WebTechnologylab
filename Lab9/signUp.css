@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+body {
+    font-size: 16px;
+    background: #fff;
+    font-family: 'Montserrat', sans-serif;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url('bg.jpg');
+    background-position: center;
+    background-repeat:inherit ;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+.img{
+    width:50%;
+    height:50%;
+    padding-left: 10px;
+    margin:0%;
+    margin-top: 10px;
+}
+
+.logo{
+    width: 50px;
+    cursor: pointer;
+}
+
+form {
+    width: 300px;
+    background-color: rgba(92, 42, 143, 0.274);
+    padding: 15px 40px 40px;
+    font-weight: 200;
+    border: 1px solid #ccc;
+    margin: 50px auto 0;
+    position: absolute;
+    top: 80px;
+    color: rgba(233, 223, 243, 0.918);
+    right: 100px;
+    border-radius: 5px;
+   
+}
+label {
+    display: block;
+    margin-bottom: 5px
+}
+label i {
+    color: #999;
+    font-size: 80%;
+}
+input, select {
+    border: 1px solid #ccc;
+    padding: 10px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+.row {
+    padding-bottom: 10px;
+}
+.form-inline {
+    border: 1px solid #ccc;
+    padding: 8px 10px 4px;
+    border-radius: 2px;
+}
+.form-inline label, .form-inline input {
+    display: inline-block;
+    width: auto;
+    padding-right: 15px;
+}
+.error {
+    color: red;
+    font-size: 90%;
+}
+input[type="submit"] {
+    font-size: 110%;
+    font-weight: 100;
+    background-color: #8a16b8af
+
+;
+    border-color: #2d053ac2
+c
+;
+    box-shadow: 0 3px #29043f
+
+;
+    color: #fff;
+    margin-top: 10px;
+    cursor: pointer;
+}
+input[type="submit"]:hover {
+    background-color: #590492
+
+;
+}
