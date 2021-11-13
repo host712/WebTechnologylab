@@ -49,7 +49,7 @@ echo  "<tr><td>$row[fname]</td> <td>$row[lname]</td><td>$row[email]</td><td>$row
  ?>
  </table>
  
- <h4><a href="reg.html">Back</a></h4>
+ <h4><a href="reg.php">Back</a></h4>
  <?php
 mysqli_close($conn);  
 ?>
